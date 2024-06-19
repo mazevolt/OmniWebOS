@@ -1,6 +1,5 @@
 # OmniWebOS
 
-## Tagline
 Revolutionizing Digital Experience: OS and Browser as One
 
 ## Project Description
@@ -16,5 +15,15 @@ Revolutionizing Digital Experience: OS and Browser as One
 
 ### Getting Started
 1. **Clone the repository:**
-   ```bash
+  ```bash
    git clone https://github.com/mazevolt/OmniWebOS.git
+2. **Build the project:**
+   Follow the instructions in the BUILD.md file to set up the development environment and compile the project.
+### Contributing
+We welcome contributions from developers around the world. Please read our CONTRIBUTING.md guide for more details on how to get involved.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contact
+For any inquiries or support, please reach out to [mazevolt@outlook.com].
