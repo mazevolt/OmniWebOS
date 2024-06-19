@@ -17,6 +17,7 @@ Revolutionizing Digital Experience: OS and Browser as One
 1. **Clone the repository:**
   ```bash
    git clone https://github.com/mazevolt/OmniWebOS.git
+```
 2. **Build the project:**
    Follow the instructions in the BUILD.md file to set up the development environment and compile the project.
 ### Contributing
